@@ -15,7 +15,7 @@ Minhas credenciais incluem Mestrado em Economia Regional pela Universidade Estad
 
 **Links:**
 * [Blog]()
-* [LinkedIn]()
+* [LinkedIn](https://www.linkedin.com/in/andre-cruz-086910142/)
 * [Medium]()
 
 
