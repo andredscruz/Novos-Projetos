@@ -11,7 +11,7 @@ Como Cientista de Dados e economista, combino habilidades analíticas, capacidad
 
 Minhas credenciais incluem Mestrado em Economia Regional pela Universidade Estadual de Londrina (UEL), instituição de ensino superior e pesquisa, considerada uma das melhores do Brasil, e bacharel em Ciências Econômicas pelo Centro Universitário Cidade Verde (UNICV).
 
-**Background in:** Python, Economia e Marketing Digital.
+**Experiências em:** Python, Economia e Marketing Digital.
 
 **Links:**
 * [Blog]()
